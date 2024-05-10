@@ -1,0 +1,14 @@
+G:\C-Sharp\V37\FileOrganizer\bin\Debug\net9.0\FileOrganizer.exe
+G:\C-Sharp\V37\FileOrganizer\bin\Debug\net9.0\FileOrganizer.deps.json
+G:\C-Sharp\V37\FileOrganizer\bin\Debug\net9.0\FileOrganizer.runtimeconfig.json
+G:\C-Sharp\V37\FileOrganizer\bin\Debug\net9.0\FileOrganizer.dll
+G:\C-Sharp\V37\FileOrganizer\bin\Debug\net9.0\FileOrganizer.pdb
+G:\C-Sharp\V37\FileOrganizer\obj\Debug\net9.0\FileOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp\V37\FileOrganizer\obj\Debug\net9.0\FileOrganizer.AssemblyInfoInputs.cache
+G:\C-Sharp\V37\FileOrganizer\obj\Debug\net9.0\FileOrganizer.AssemblyInfo.cs
+G:\C-Sharp\V37\FileOrganizer\obj\Debug\net9.0\FileOrganizer.csproj.CoreCompileInputs.cache
+G:\C-Sharp\V37\FileOrganizer\obj\Debug\net9.0\FileOrganizer.dll
+G:\C-Sharp\V37\FileOrganizer\obj\Debug\net9.0\refint\FileOrganizer.dll
+G:\C-Sharp\V37\FileOrganizer\obj\Debug\net9.0\FileOrganizer.pdb
+G:\C-Sharp\V37\FileOrganizer\obj\Debug\net9.0\FileOrganizer.genruntimeconfig.cache
+G:\C-Sharp\V37\FileOrganizer\obj\Debug\net9.0\ref\FileOrganizer.dll

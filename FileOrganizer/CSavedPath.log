@@ -1,0 +1,7 @@
+SavedPathID {
+	'MoveFromPath' : '(C:\Users\MZ\Desktop)' > 'DestinatonPath' : '(C:\Users\MZ\Documents)';
+}
+
+OrganizedFile {
+	'FileExtension' : ".exe, .cs. ps1";
+}
